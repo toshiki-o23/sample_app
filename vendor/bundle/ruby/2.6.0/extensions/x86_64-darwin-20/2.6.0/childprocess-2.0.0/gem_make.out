@@ -1,0 +1,5 @@
+current directory: /Users/toshiki/Documents/rails_tutorial/clone/sample_apps/6_0_0/ch14/vendor/bundle/ruby/2.6.0/gems/childprocess-2.0.0/ext
+/Users/toshiki/.rbenv/versions/2.6.5/bin/ruby mkrf_conf.rb
+
+current directory: /Users/toshiki/Documents/rails_tutorial/clone/sample_apps/6_0_0/ch14/vendor/bundle/ruby/2.6.0/gems/childprocess-2.0.0/ext
+/Users/toshiki/.rbenv/versions/2.6.5/bin/ruby -rrubygems /Users/toshiki/Documents/rails_tutorial/clone/sample_apps/6_0_0/ch14/vendor/bundle/ruby/2.6.0/gems/rake-12.3.3/exe/rake RUBYARCHDIR\=/Users/toshiki/Documents/rails_tutorial/clone/sample_apps/6_0_0/ch14/vendor/bundle/ruby/2.6.0/extensions/x86_64-darwin-20/2.6.0/childprocess-2.0.0 RUBYLIBDIR\=/Users/toshiki/Documents/rails_tutorial/clone/sample_apps/6_0_0/ch14/vendor/bundle/ruby/2.6.0/extensions/x86_64-darwin-20/2.6.0/childprocess-2.0.0
